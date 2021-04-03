@@ -3,6 +3,6 @@ body {
 }
 .content {
     background-color: #51a398;
-    width: 100%;
+    width: auto;
     height: 100px;
 }
