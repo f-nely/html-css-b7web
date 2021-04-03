@@ -3,7 +3,6 @@
 }
 
 p {
-    border-bottom: 5px groove #44FFAA;
-    border-top: 5px double #FF1533;
-    border-right: 5px dashed #CCC;
+    background-color: rgb(134, 80, 40);
+    border-radius: 5px;
 }
