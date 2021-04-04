@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.link {
+    color: rgb(177, 106, 106);
+}
+
+.link:hover{
+    color: rgb(21, 122, 117);
+}
+
+.link:visited{
+    color: rgb(224, 240, 11);
+}
