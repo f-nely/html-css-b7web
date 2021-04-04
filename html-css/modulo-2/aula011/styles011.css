@@ -1,0 +1,8 @@
+.content {
+    background-color: rgb(98, 106, 134);
+    height: 400px;
+    width: 400px;
+    border: 5px solid #b35151;
+    padding: 10px;
+    margin: 20px;
+}
