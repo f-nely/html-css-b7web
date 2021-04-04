@@ -3,11 +3,11 @@ body {
 }
 .content {
     background-color: #51a398;
-    width: auto;
-    height: 100px;
+    width: 500px;
+    height: 500px;
 }
 
 img {
-    margin-top: 5px;
-    width: 50%;
+    width: inherit;
+    max-width: 450px;
 }
