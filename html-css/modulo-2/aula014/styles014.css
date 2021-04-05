@@ -5,3 +5,7 @@
 body {
     margin: 0;
 }
+
+mark {
+    background-color: rgb(142, 223, 196);
+}
