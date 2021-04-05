@@ -16,4 +16,5 @@ p {
     font-family: Verdana;
     text-align: justify;
     text-transform: capitalize;
+    letter-spacing: 2px;
 }
