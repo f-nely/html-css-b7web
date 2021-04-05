@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: rgb(197, 93, 19);
+}
+
+p {
+    color: rgb(31, 100, 100);
+    font-family: Verdana;
+    text-align: justify;
+    text-transform: capitalize;
+}
