@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Times New Roman';
+    margin: 0;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: rgb(122, 62, 18);
+}
+
+h2, li {
+    color: rgb(104, 72, 13);
+}
+
