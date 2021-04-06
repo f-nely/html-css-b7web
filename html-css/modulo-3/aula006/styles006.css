@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+table, th, td {
+    width: 300px;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    color: cornsilk;
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 5px;
+}
+
+table thead {
+    background-color: #2E8B57;
+}
+
+table tbody {
+    background-color: #3CB371;
+}
+
+tr:hover {
+    background-color: #5F9EA0;
+}
