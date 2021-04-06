@@ -16,3 +16,8 @@ h2, li {
     color: rgb(104, 72, 13);
 }
 
+ul {
+    list-style-type: square;
+}
+
+
