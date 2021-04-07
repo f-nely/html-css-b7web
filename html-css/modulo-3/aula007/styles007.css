@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    background-color: #2D3142;
+    border: 2px solid #505050;
+    border-radius: 5%;
+    height: 300px;
+    width: 300px;
+    text-align: center;
+    padding: 31px;
+    margin: auto;
+    font-family: 'IBM Plex Mono', monospace;
+    color: #FFF;
+}
+
+.btn {
+    padding: 8px 20px;
+    font-weight: normal;
+    margin: 0 4px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    cursor: pointer;
+}
+
+.btn_green {
+    background-color: #009933;
+    color: #FFF;
+
+}
+
+input {
+    padding-bottom: 5px;
+}
+
+.input {
+    margin-bottom: 25px;
+}
