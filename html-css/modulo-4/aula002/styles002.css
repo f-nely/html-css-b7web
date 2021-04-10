@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    color: rgb(116, 78, 151);
+}
+
+body .container {
+    color: rgb(185, 117, 67);
+}
+
