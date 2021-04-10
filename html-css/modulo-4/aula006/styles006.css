@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.box {
+    width: 50%;
+    height: 400px;
+    background-color: #999;
+}
+
+.box_interno {
+    width: 50%;
+    height: 50%;
+    background-color: #333;
+}
