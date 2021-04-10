@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    width: calc(100% - 20px);
+    height: 200px;
+    background-color: #CCC;
+    color: rgb(116, 78, 151);
+    border: 1px solid rgb(68, 161, 80);
+}
+
+.container strong {
+    border: 1px solid rgb(32, 85, 121);
+}
