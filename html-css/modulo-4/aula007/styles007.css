@@ -8,6 +8,7 @@ body {
 
 .box {
     background-color: #999;
-    width: 100vw;
+    height: 50vh;
+    /*width: 50vw;*/
 }
 
