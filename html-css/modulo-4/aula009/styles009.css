@@ -4,7 +4,11 @@
 
 body {
     margin: 0;
-    background-color: #AAE983;
+    color: #AAE983;
+}
+
+h1 {
+    border: 2px solid currentColor;
 }
 
 
