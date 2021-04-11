@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.box {
+    font-size: 15px;
+    color: rgb(42, 134, 130);
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(49, 153, 49);
+}
+
+.box h1 {
+    font-size: inherit;
+    color: inherit;
+}
+
