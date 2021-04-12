@@ -21,7 +21,14 @@ body {
     }
 }
 
-@media (max-width: 600px){
+@media (min-width: 300px) and (max-width: 700px) {
+
+    body {
+        background-color: rgb(150, 133, 91);
+    }
+}
+
+/* @media (max-width: 600px){
 
     body {
         background-color: #CCC;
@@ -30,5 +37,5 @@ body {
     h1 {
         font-size: 15px;
     }
-}
+} */
 
