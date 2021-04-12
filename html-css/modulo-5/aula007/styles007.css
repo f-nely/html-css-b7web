@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(9, 70, 70);
+    margin: 0;
+}
+
+@media (min-width: 1000px) {
+
+    body {
+        background-color: rgb(93, 163, 93);
+    }
+
+    h1 {
+        font-size: 70px;
+    }
+}
+
+@media (min-width: 700px) and (max-width: 1000px) {
+
+    body {
+        background-color: rgb(214, 135, 79);
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 300px) and (max-width: 700px) {
+
+    body {
+        background-color: rgb(228, 168, 19);
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 300px) {
+    h1 {
+        font-size: 14px;
+    }
+}
+
+
+
