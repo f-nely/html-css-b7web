@@ -16,7 +16,7 @@ table, td, th {
    
 }
 
-@media only screen {
+@media all {
 
     h1 {
         display: none;
