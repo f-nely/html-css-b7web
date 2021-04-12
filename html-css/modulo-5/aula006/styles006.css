@@ -3,7 +3,7 @@
 }
 
 body {
-    background-color: rgb(212, 236, 236);
+    background-color: rgb(9, 70, 70);
     margin: 0;
 }
 
@@ -24,7 +24,7 @@ body {
 @media (min-width: 300px) and (max-width: 700px) {
 
     body {
-        background-color: rgb(150, 133, 91);
+        background-color: rgb(228, 168, 19);
     }
 }
 
