@@ -16,15 +16,10 @@ table, td, th {
    
 }
 
-@media only print {
+@media only screen {
 
     h1 {
-        font-size: 20px;
-        font-weight: normal;
-    }
-
-    table, td, th {
-        border-collapse: collapse;
+        display: none;
     }
 }
 
