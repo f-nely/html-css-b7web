@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+@media (aspect-ratio: 1/1) {
+  body {
+    background-color: rgb(115, 132, 165);
+  }
+}
+
+@media (min-aspect-ratio: 2/1) {
+  body {
+    background-color: rgb(51, 104, 51);
+  }
+}
+
+@media (max-aspect-ratio: 1/2) {
+  body {
+    background-color: rgb(206, 209, 46);
+  }
+}
