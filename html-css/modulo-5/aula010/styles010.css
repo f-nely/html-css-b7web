@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(105, 161, 161);
+    margin: 0;
+}
+
+h1 {
+    color: #FFF;
+}
+
+.container {
+    background-color: rgb(84, 173, 84);
+    color: #FFF;
+}
