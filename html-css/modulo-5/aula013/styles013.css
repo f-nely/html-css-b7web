@@ -1,0 +1,12 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+img {
+    /*width: max(50%, 300px);*/
+    width: min(50%, 300px);
+}
