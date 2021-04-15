@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+    color: cadetblue;
+}
+
+a {
+    text-decoration: none;
+    margin: 2px;
+    padding: 2px;
+    border: 2px solid #CCC;
+    background-color: rgb(89, 122, 167);
+    color: #FFF;
+    border-radius: 6px;
+}
+
+a:hover {
+    background-color: rgb(209, 158, 139);
+}
+
+footer {
+    margin-top: 5px;
+}
+
