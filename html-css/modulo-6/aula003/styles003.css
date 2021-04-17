@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+section {
+    border: 2px solid black;
+    background-color: #CCC;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.content article {
+    border:2px solid black;
+    margin-bottom: 2px;
+    background-color: #AAA;
+}
