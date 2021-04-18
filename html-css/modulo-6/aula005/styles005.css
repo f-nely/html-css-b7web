@@ -3,6 +3,17 @@
 }
 
 body {
-    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: auto;
     padding: 0;
+}
+
+form {
+    border: 1px solid #505050;
+    background-color: #FFFBFB;
+    border-radius: 5px;
+    margin: 3px;
+    padding: 4px;
 }
