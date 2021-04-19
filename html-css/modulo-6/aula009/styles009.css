@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    width: 200px;
+    background-color: rgb(245, 238, 238);
+}
