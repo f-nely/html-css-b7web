@@ -1,0 +1,38 @@
+/* * {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    width: 200px;
+    background-color: #DCDCDC;
+    margin: auto;
+    margin-top: 5px;
+} */
+
+body {
+    margin: 0;
+    background-color: #EEE;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form {
+    width: 160px;
+    height: 150px;
+    background-color: #DDD;
+    margin: auto;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+input {
+    padding: 5px;
+    font-size: 13px;
+}
