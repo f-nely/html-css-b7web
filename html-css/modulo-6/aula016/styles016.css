@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: 0;
+}
+
+.exemplo {
+    width: 600px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+    background: linear-gradient(#e66465, #9198e5);
+}
