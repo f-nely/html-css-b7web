@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: 0;
+}
+
+#teste {
+    background-color: rgb(113, 218, 183);
+    width: 200px;
+    height: 200px;
+    margin-left: 40px;
+    margin-top: 40px;
+    border-radius: 10px;
+}
