@@ -1,0 +1,30 @@
+/* animações*/
+@keyframes exemplo {
+    0% {background-color: #87CEFA; top: 0px; left: 0px;}
+    25% {background-color: #B0C4DE; top: 0px; left: 200px;}
+    50% {background-color: #20B2AA; top: 200px; left: 200px;}
+    75% {background-color: #3CB371; top: 200px; left: 0px;}
+    100% {background-color: #9ACD32; top: 0px; left: 0px;}
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: 0;
+}
+
+.exemplo {
+    width: 150px;
+    height: 150px;
+    background-color: rgb(65,105,225);
+    position: absolute;
+    animation-name: exemplo;
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+}
+
