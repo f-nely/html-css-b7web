@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: 0;
+}
+
+.exemplo {
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(113, 147, 211);
+    transition: all 3s linear;
+}
+
+.exemplo:hover {
+    border-radius: 75px;
+}
+
+a {
+    color: #000;
+    transition: all 3s linear;
+}
+
+a:hover {
+    color: rgb(223, 68, 29);
+}
+
