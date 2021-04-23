@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: 0;
+}
+
+.content {
+    width: 140px;
+    height: 300px;
+    border: 1px solid #000;
+    word-wrap: break-word;
+}
+
+.content header h1 {
+    font-size: 14px;
+}
