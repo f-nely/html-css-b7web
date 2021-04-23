@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font: 1rem 'Fira Sans', sans-serif;
+    color: #505050;
+    max-width: 900px;
+    margin: auto;
+}
+
+header {
+    border: 1px solid #AAA;
+    margin-top: 9px;
+    margin-left: 10px;
+}
+
+q {
+    color: #555;
+    font-style: italic;
+}
+
+footer {
+    border: 1px solid #AAA;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #505050;
+}
+
+a:hover {
+    color: #4682B4;
+}
