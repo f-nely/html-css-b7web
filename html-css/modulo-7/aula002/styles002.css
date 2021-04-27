@@ -1,7 +1,7 @@
 .container {
     background-color: #DDD;
     display: flex;
-    flex-wrap: wrap;
+    flex-flow: row wrap;
 }
 
 .container div {
