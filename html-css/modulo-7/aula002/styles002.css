@@ -2,7 +2,7 @@
     background-color: #DDD;
     display: flex;
     flex-direction: row;
-    justify-content: flex-start;
+    justify-content: space-around;
     height: 500px;
 }
 
