@@ -1,8 +1,8 @@
 .container {
     background-color: #DDD;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    flex-direction: row;
+    justify-content: flex-start;
     height: 500px;
 }
 
