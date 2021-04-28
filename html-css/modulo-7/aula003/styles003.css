@@ -4,6 +4,7 @@
     flex-direction: row;
     justify-content: center;
     align-items: flex-start;
+    flex-wrap: wrap;
     height: 500px;
 }
 
@@ -15,7 +16,7 @@
     padding: 10px;
     font-size: 18px;
 }
-
+/* 
 .div10 {
     align-self: flex-end;
     order: -1;
@@ -23,5 +24,5 @@
 
 .div14 {
     order: -2;
-}
+} */
 
