@@ -131,3 +131,14 @@ nav .active a, nav a:hover {
     font-size: 13px;
     text-decoration: none;
 }
+
+.justify-content-between {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 12px;
+    margin-top: 20px;
+    border-bottom: 1px solid rgba(206, 206, 206, 0.1);
+    padding-bottom: 13px;
+    font-weight: 600;
+}
