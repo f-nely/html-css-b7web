@@ -142,3 +142,16 @@ nav .active a, nav a:hover {
     padding-bottom: 13px;
     font-weight: 600;
 }
+
+#geral {
+    display: flex;
+    justify-content: center;
+}
+
+#geral section {
+    flex: 2;
+}
+
+#geral aside {
+    flex: 1;
+}
