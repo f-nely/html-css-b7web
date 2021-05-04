@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+input, a {
+    display: block;
+    margin-left: 15px;
+    margin-top: 7px;
+}
+
+a {
+    font-family: Times, serif;
+    text-decoration: none;
+}
+
+/* a[href*="futebol"] {
+   color: dodgerblue;
+} */
+
+a[href^="https:"] {
+    color: green;
+}
