@@ -12,6 +12,10 @@ p::first-letter {
     font-weight: bold;
 }
 
+p::first-line {
+    background-color: #57a8ba;
+}
+
 a {
     color: #000;
 }
