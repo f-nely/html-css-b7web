@@ -7,6 +7,12 @@ body {
     padding: 0;
 }
 
-div:nth-child(2) {
-    background-color: #b8981c;
+/* selecionando os elementos ímpares*/
+div:nth-child(odd) {
+    background-color: #b6fc03;
+}
+
+/* selecionando os elementos pares*/
+div:nth-child(even) {
+    background-color: #039dfc;
 }
