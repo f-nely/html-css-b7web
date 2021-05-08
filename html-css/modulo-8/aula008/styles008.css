@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+span::before {
+    content: "➤";
+    background-color: #329da8;
+    border: 1px solid #ccc;
+}
+
+span::after {
+    content: "➹";
+    background-color: #329da8;
+    border: 1px solid #ccc;
+}
