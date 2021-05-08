@@ -8,7 +8,12 @@ body {
     text-align: center;
 }
 
-span::before {
+div {
+    background-color: #4ce080;
+    padding: 20px;
+}
+
+div::before {
     content: "";
     background-color: #329da8;
     width: 20px;
