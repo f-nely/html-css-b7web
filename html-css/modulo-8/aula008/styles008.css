@@ -9,13 +9,9 @@ body {
 }
 
 span::before {
-    content: "➤";
+    content: "";
     background-color: #329da8;
-    border: 1px solid #ccc;
-}
-
-span::after {
-    content: "➹";
-    background-color: #329da8;
-    border: 1px solid #ccc;
+    width: 20px;
+    height: 20px;
+    display: inline-block;
 }
