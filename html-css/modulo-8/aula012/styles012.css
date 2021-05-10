@@ -11,8 +11,6 @@ div {
     background-color: #b6f542;
     width: 200px;
     height: 200px;
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    transform: rotate(90deg);
+    margin: auto;
+    transform: skew(10deg, 5deg);
 }
