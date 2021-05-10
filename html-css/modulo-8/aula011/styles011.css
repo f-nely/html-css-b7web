@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background-color: #b6f542;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    transform: scale(0.5);
+}
