@@ -6,6 +6,8 @@
 
 body {
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    overflow-x: hidden;
 }
 
 /* menu */
@@ -145,6 +147,11 @@ header {
 
 .banner .pointer.active {
     background-color: #B28756;
+}
+
+/* sections*/
+.default {
+    background-color: rgb(219, 56, 56);
 }
 
 
