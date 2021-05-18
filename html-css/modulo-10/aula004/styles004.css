@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: auto 200px 100px;
+    grid-template-rows: 100px 200px 50px 300px;
+    gap: 10px 20px;
+}
+
+.item {
+    background-color: #4287f5;
+    border-radius: 10px;
+    padding: 20px;
+    color: #FFF;
+    font-size: 20px;
+}
