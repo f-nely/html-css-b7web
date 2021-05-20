@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    height: 800px;
+    background-color: #CCC;
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    gap: 10px;
+    align-items: stretch;
+}
+
+.item {
+    background-color: #4287f5;
+    border-radius: 10px;
+    padding: 20px;
+    color: #FFF;
+    font-size: 20px;
+}
