@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #CCC;
+    display: grid;
+    gap: 10px;
+    grid-template-areas: 
+        "header header header header"
+        "menu content content content"
+        "adv content content content"
+        "footer footer footer footer"
+    ;
+}
+
+.item {
+    background-color: #4287f5;
+    border-radius: 10px;
+    padding: 20px;
+    color: #FFF;
+    font-size: 20px;
+}
+
+header {
+    grid-area: header;
+}
+
+nav {
+    grid-area: menu;
+}
+
+section {
+    grid-area: content;
+}
+
+footer {
+    grid-area: footer;
+}
+
+.adv {
+    grid-area: adv;
+}
