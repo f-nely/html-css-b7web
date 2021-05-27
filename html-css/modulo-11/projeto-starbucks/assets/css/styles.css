@@ -251,3 +251,12 @@ h2 {
     background-position: left;
 }
 
+/* rodapé */
+
+.area5 {
+    background-image: url('../images/bg4.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+
